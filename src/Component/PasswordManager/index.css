@@ -1,0 +1,61 @@
+.image-password-manager {
+  max-width: 20vw;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #454f84;
+  margin: 50px;
+  padding: 25px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.input-icons {
+  max-width: 20px;
+}
+.input-details {
+  background-color: #ffffff;
+  margin: 15px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  border: transparent;
+  margin-left: 8px;
+}
+.bottom-container-1 {
+  display: flex;
+  justify-content: space-between;
+}
+.bottom-container-1-sub {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  font-size: 25px;
+  padding: 12px;
+}
+.para {
+  font-size: 35px;
+}
+
+.bottom-container {
+  background-color: #454f84;
+  margin: 50px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.check-container {
+  display: flex;
+  justify-content: flex-end;
+}
